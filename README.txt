@@ -1,1 +1,1 @@
-Tempearture Calss 
+Temperature Class 
